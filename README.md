@@ -1,6 +1,11 @@
+![03](https://github.com/Malcolm-xXx/ecommerce_web2/assets/145515562/9571e88e-d285-42b4-a888-09eb0bf6b584)
+
+
+
+
 # ecommerce_web2
 
-A new Flutter project.
+A new Flutter project is incomplete.
 
 ## Getting Started
 

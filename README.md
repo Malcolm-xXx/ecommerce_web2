@@ -5,7 +5,7 @@
 
 # ecommerce_web2
 
-A new Flutter project is incomplete.
+ Flutter project is incomplete.
 
 ## Getting Started
 
